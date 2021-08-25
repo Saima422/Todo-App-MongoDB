@@ -1,0 +1,6 @@
+[submodule "Todo-Frontend-Integrated-with-Backend"]
+	path = Todo-Frontend-Integrated-with-Backend
+	url = https://github.com/Saima422/Todo-Frontend-Integrated-with-Backend
+[submodule "Todo-Backend-Mode-DB-FS"]
+	path = Todo-Backend-Mode-DB-FS
+	url = https://github.com/Saima422/Todo-Backend-Mode-DB-FS
